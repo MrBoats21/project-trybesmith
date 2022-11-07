@@ -1,6 +1,6 @@
 import jsonwebtoken from 'jsonwebtoken';
 
-import { IUser, IUserID } from '../interfaces/IUser';
+import { IUser, IUserID } from '../interfaces';
 
 import UsersModel from '../models/user.model';
 

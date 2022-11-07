@@ -1,6 +1,6 @@
 import { RowDataPacket } from 'mysql2';
 
-import { IUser, IUserID } from '../interfaces/IUser';
+import { IUser, IUserID } from '../interfaces';
 
 import mysql from './connection';
 

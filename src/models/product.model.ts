@@ -1,6 +1,6 @@
 import { ResultSetHeader, RowDataPacket } from 'mysql2';
 
-import { IProduct, IProductID } from '../interfaces/product.interface';
+import { IProduct, IProductID } from '../interfaces';
 
 import mysql from './connection';
 
